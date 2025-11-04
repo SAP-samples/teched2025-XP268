@@ -50,7 +50,7 @@ The following entitlements have been assigned to both subaccounts:
 
 1. **Obtain Credentials**: Your username and password will be provided by the speaker/moderator. User accounts are numbered sequentially from **xp268-001 to xp268-040**.
 
-2. **Access BTP Cockpit**: Navigate to the [BTP Cockpit](https://emea.cockpit.btp.cloud.sap/cockpit/#/globalaccount/e34b6076-b6b0-4572-be2c-cd159da0c0e6)
+2. **Access BTP Cockpit**: Navigate to the [BTP Cockpit](https://emea.cockpit.btp.cloud.sap/cockpit/?idp=a8jz9er3v.accounts.ondemand.com#/globalaccount/e34b6076-b6b0-4572-be2c-cd159da0c0e6&//detail/fe01278e-00bc-45de-b196-2f1a4d3757da/?layout=TwoColumnsMidExpanded)
 
 3. **Verify Subaccounts**: You should see two subaccounts under the global account `SAP-TechEd25-XP268`:
    - `XP268-xxx-Primary` (your primary region)
